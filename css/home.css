@@ -1,0 +1,31 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+
+#corpo{
+	border:1px solid black;
+	
+	background-color:black;
+}
+
+
+#cardVeiculo{
+		border:1px solid black;
+		margin:10px auto;
+		width: 300px;
+		border-radius: 5px;
+		text-align: center;
+		background-color:#2980b9;
+		color:white;
+		padding:10px;
+
+	}
+
+	#cardVeiculo a{
+		color:white;
+		padding:10px;
+		border:1px solid black;
+		background-color: #95a5a6;
+}

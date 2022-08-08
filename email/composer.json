@@ -1,0 +1,21 @@
+{
+    "name": "email/phpmailer",
+    "description": "sistema de email",
+    "type": "project",
+    "license": "free",
+    "autoload": {
+        "psr-4": {
+            "Email\\Phpmailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joao Marques",
+            "email": "jovimarques@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
